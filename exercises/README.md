@@ -1,3 +1,2 @@
 # duckdb_analytics_henrik_goransson_mlops25
 Learning duckdb
-# code alongs folder
